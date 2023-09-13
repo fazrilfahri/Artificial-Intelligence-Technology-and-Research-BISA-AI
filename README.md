@@ -7,8 +7,8 @@
 
 ## Industrial Project
 - Intelligent Analysis: I was responsible for Scraping, which involves extracting data from the web Badan Pengawas Obat dan Makanan (BPOM) website and I was responsible for Data Cleaning, which involves removing errors and inconsistencies from the scraped data as a Data Scientist.
-- 1.  [Link Here](https://github.com/fazrilfahri/Artificial-Intelligence-Technology-and-Research-BISA-AI/blob/b0cda089c0cb0aa8a28fbea2c5c7dbde2d5df105/3.%20Intelligent%20Analysis/1.%20BPOM%20Web%20Scraping.ipynb) 
-  2.  [Link Here](https://github.com/fazrilfahri/Artificial-Intelligence-Technology-and-Research-BISA-AI/blob/b0cda089c0cb0aa8a28fbea2c5c7dbde2d5df105/3.%20Intelligent%20Analysis/2.%20Data%20Cleaning.ipynb)
+  - [Link Here](https://github.com/fazrilfahri/Artificial-Intelligence-Technology-and-Research-BISA-AI/blob/b0cda089c0cb0aa8a28fbea2c5c7dbde2d5df105/3.%20Intelligent%20Analysis/1.%20BPOM%20Web%20Scraping.ipynb) 
+  - [Link Here](https://github.com/fazrilfahri/Artificial-Intelligence-Technology-and-Research-BISA-AI/blob/b0cda089c0cb0aa8a28fbea2c5c7dbde2d5df105/3.%20Intelligent%20Analysis/2.%20Data%20Cleaning.ipynb)
 
 ## Image Processing
 - **Analysis of Experiment Results on Batik Dataset**: Superiority of Decision Tree Model with 100% Accuracy and Comparison with Other Models. [Link Here](https://github.com/fazrilfahri/Artificial-Intelligence-Technology-and-Research-BISA-AI/blob/b0cda089c0cb0aa8a28fbea2c5c7dbde2d5df105/4.%20Image%20Processing/Analysis%20of%20Experiment%20Results%20on%20Batik%20Dataset%20Superiority%20of%20Decision%20Tree%20Model%20with%20100%25%20Accuracy%20and%20Comparison%20with%20Other%20Models..ipynb)
