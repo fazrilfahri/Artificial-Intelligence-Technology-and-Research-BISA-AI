@@ -1,7 +1,6 @@
 ## Machine Learning
 - **E-Shop Clothing Sales Prediction Using Linear Regression**: This project uses Linear Regression to predict clothing sales in an online store with approximately 91% accuracy. [Link Here](https://github.com/fazrilfahri/Artificial-Intelligence-Technology-and-Research-BISA-AI/blob/b0cda089c0cb0aa8a28fbea2c5c7dbde2d5df105/1.%20Machine%20Learning/Acc%2091%25%20E-shop.ipynb)
 - **Optimizing Smoking Signal Detection**: Performance Analysis of Various Machine Learning Models with the Highest Accuracy of 82.86%. [Link Here](https://github.com/fazrilfahri/Artificial-Intelligence-Technology-and-Research-BISA-AI/blob/b0cda089c0cb0aa8a28fbea2c5c7dbde2d5df105/1.%20Machine%20Learning/Optimizing%20Smoking%20Signal%20Detection.ipynb)
-
 ## Data Science
 - **Data Science/Exploring and Exercising Data Visualization Methods**: This project focuses on the exploration and application of various data visualization methods. [Link Here](https://github.com/fazrilfahri/Artificial-Intelligence-Technology-and-Research-BISA-AI/blob/b0cda089c0cb0aa8a28fbea2c5c7dbde2d5df105/2.%20Data%20Science/Exploring%20and%20Exercising%20Data%20Visualization%20Methods.ipynb)
 
